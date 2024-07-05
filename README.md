@@ -26,9 +26,9 @@ Für mich bieten sich bei einer Fortsetzung des Projekts ab jetzt Zwei wege an. 
 
 Meine Aufgaben:
 
-Einrichtung der VR Brille
-Umsetzung des Schnittes/Ablauf des Erlebnisses
-Kreation der Objekte und Materials für die einzelnen Sphären 
-Sound Räumlich an Objekte und Szenen binden
-Programmieren eines Partikel (Niagara Systems)
-Level-Blueprint für das abspielen der Videos programmiert
+- Einrichtung der VR Brille
+- Umsetzung des Schnittes/Ablauf des Erlebnisses
+- Kreation der Objekte und Materials für die einzelnen Sphären 
+- Sound Räumlich an Objekte und Szenen binden
+- Programmieren eines Partikel (Niagara Systems)
+- Level-Blueprint für das abspielen der Videos programmiert
